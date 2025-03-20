@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, eu sou o Ramon!</h1>
 <p align="center">
 <a href="https://instagram.com/ramon_xp9"><img src="https://img.shields.io/badge/-@ramon_xp9_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://https://ramonsantosportfolio.vercel.app"><img src="https://img.shields.io/badge/-ramonsantosportfolio.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://ramonsantosportfolio.vercel.app"><img src="https://img.shields.io/badge/-ramonsantosportfolio.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ramon-santosxp"><img src="https://img.shields.io/badge/Ramon%20Santos%20Xp-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:ramonfishh@gmail.com"><img src="https://img.shields.io/badge/-ramonfishh@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
