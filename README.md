@@ -34,4 +34,12 @@ Foi aí que percebi que queria ser programador.
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Ramon Santos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamonSantos9&show_icons=true&theme=dracula)
+---
+| ![Estatísticas do GitHub de Ramon Santos](https://github-readme-stats.vercel.app/api?username=ramonsantos9&show_icons=true&theme=radical) | [![Ashish Patel's Stri](https://streak-stats.demolab.com?user=RamonSantos9&theme=dark&border_radius=7&mode=weekly)](https://git.io/streak-stats) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![Principais Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsantos9&layout=compact&&show_icons=true&theme=radical)](https://github.com/RamonSanto9/github-readme-stats) |                                                              |
+
+
+
+[![Gráfico de atividade do GitHub de Ramon](https://github-readme-activity-graph.vercel.app/graph?username=ramonsantos9&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/RamonSantos9/github-readme-activity-graph)
+
