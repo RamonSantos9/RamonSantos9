@@ -40,6 +40,5 @@ Foi aí que percebi que queria ser programador.
 | [![Principais Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsantos9&layout=compact&&show_icons=true&theme=default)](https://github.com/RamonSanto9/github-readme-stats) |                                                              |
 
 
-
-[![Gráfico de atividade do GitHub de Ramon](https://github-readme-activity-graph.vercel.app/graph?username=ramonsantos9&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/RamonSantos9/github-readme-activity-graph)
+[![Gráfico de atividade do GitHub de Ramon](https://github-readme-activity-graph.vercel.app/graph?username=RamonSantos9&bg_color=ffffff&color=000009&line=ff7a00&point=ff7a00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
