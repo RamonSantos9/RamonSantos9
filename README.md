@@ -9,28 +9,17 @@
 
 <h2><img src="https://staticas-readme.vercel.app/api/header?text=👨🏻‍💻%20Sobre+Min&font_family=Bricolage+Grotesque&font_size=28&color=FB8C00&align=left&title_color=ffffff&v=2" alt="Olá, eu sou o Ramon!" /></h2>
 
-- 👨🏻‍💻 &nbsp; Desde pequeno, sempre fui apaixonado por tecnologia e programação. Meu primeiro contato com computadores foi jogando, e, por volta dos 13 a 14 anos, surgiu uma curiosidade imensa sobre como as coisas online funcionavam.
-Foi aí que percebi que queria ser programador.
-- 💚 &nbsp; Com o tempo, além de aprimorar minhas habilidades, percebi que minha maior satisfação vem de impactar positivamente a vida das pessoas com meu trabalho. Criar soluções que fazem a diferença é o que mais me motiva.
-- 🚀 &nbsp; Atualmente, meu foco principal está no desenvolvimento web e mobile, utilizando a stack JavaScript (Node.js, React e React Native). Busco sempre aprender e evoluir, explorando novas tecnologias para criar experiências incríveis.
-- 🎮 &nbsp;  Sou apaixonado por jogos competitivos, especialmente CS e Valorant. No meu tempo livre, adoro jogar e me desafiar nesses games, pois é uma das formas que mais me divertem e me mantêm focado.
+- 👨🏻‍💻 &nbsp; **Desenvolvedor Full-stack** apaixonado por transformar ideias complexas em soluções digitais eficientes. Minha trajetória é movida pela curiosidade técnica e pelo compromisso com a excelência no código.
 
-<h2><img src="https://staticas-readme.vercel.app/api/header?text=🛠%20Tech+Stack&font_family=Bricolage+Grotesque&font_size=28&color=FB8C00&align=left&title_color=ffffff&v=2" alt="Olá, eu sou o Ramon!" /></h2>
-<h3><img src="https://staticas-readme.vercel.app/api/header?text=🛠%20Front-end+&font_family=Bricolage+Grotesque&font_size=16&color=FB8C00&align=left&title_color=ffffff&v=2" alt="Olá, eu sou o Ramon!" /></h3>
+- 💚 &nbsp; Focado em **gerar valor real** por meio da tecnologia. Acredito que o bom software é aquele que resolve problemas e melhora a experiência do usuário final.
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+- 🚀 &nbsp; Especialista no ecossistema JavaScript, com domínio em **Node.js, React e React Native**. Busco constantemente a evolução técnica, explorando novas arquiteturas e ferramentas para criar aplicações de alta performance.
 
-<h3><img src="https://staticas-readme.vercel.app/api/header?text=⚙️%20Back-end+e+Banco+de+Dados&font_family=Bricolage+Grotesque&font_size=16&color=FB8C00&align=left&title_color=ffffff&v=2" alt="Olá, eu sou o Ramon!" /></h3>
+- 🎮 &nbsp; Entusiasta de estratégia e foco, traduzidos no meu hobby por jogos competitivos como CS e Valorant.
 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+<p align="center">
+  <img src="https://staticas-readme.vercel.app/api/stack?left_title=Front-end&left_items=Figma,Photoshop,React,Next.js,TypeScript,Tailwind+CSS&right_title=Back-end&right_items=Node.js,Supabase,PostgreSQL,Prisma,Git,Docker&title_color=ffffff&card_width=1200&v=15" alt="Minha Tech Stack" />
+</p>
 
 <h2><img src="https://staticas-readme.vercel.app/api/header?text=%20Um+pouco+mais+sobre+o+meu+perfil&font_family=Bricolage+Grotesque&font_size=28&color=FB8C00&align=left&title_color=ffffff&v=2" alt="Olá, eu sou o Ramon!" /></h2>
 
