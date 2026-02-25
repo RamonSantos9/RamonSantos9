@@ -37,7 +37,7 @@ Foi aí que percebi que queria ser programador.
 ---
 | ![Estatísticas do GitHub de Ramon Santos](https://staticas-readme.vercel.app/api?username=ramonsantos9&font_family=Bricolage+Grotesque&locale=pt-br&title_color=FB8C00&icon_color=FB8C00&show_icons=true&v=2) | [![RamonSantos9](https://streak-stats.demolab.com?user=ramonsantos9&theme=default&hide_border=true&border_radius=0&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Principais Langs](https://staticas-readme.vercel.app/api/top-langs?username=ramonsantos9&font_family=Bricolage+Grotesque&locale=pt-br&layout=compact&title_color=FB8C00&icon_color=FB8C00&v=2)](https://github.com/ramonsantos9/github-readme-stats) |                                                              |
+| [![Principais Langs](https://staticas-readme.vercel.app/api/top-langs?username=ramonsantos9&font_family=Bricolage+Grotesque&locale=pt-br&layout=compact&title_color=FB8C00&icon_color=FB8C00&v=2)](https://github.com/ramonsantos9/github-readme-stats) | [![WakaTime](https://staticas-readme.vercel.app/api/wakatime?username=ramonsantos9&font_family=Bricolage+Grotesque&locale=pt-br&title_color=FB8C00&icon_color=FB8C00&v=2)](https://github.com/ramonsantos9/github-readme-stats) |
 
 
 [![Gráfico de atividade do GitHub de Ramon](https://github-readme-activity-graph.vercel.app/graph?username=RamonSantos9&bg_color=ffffff&color=000009&line=ff7a00&point=ff7a00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
